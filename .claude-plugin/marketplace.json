@@ -1,0 +1,15 @@
+{
+  "name": "daizhen",
+  "owner": {
+    "name": "daizhen",
+    "email": "daizhen@kaini.org"
+  },
+  "plugins": [
+    {
+      "name": "daizhen",
+      "source": "./",
+      "description": "daizhen 的个人技能集：自动驾驶格式 review、PRD 设计对话。",
+      "version": "1.0.0"
+    }
+  ]
+}
