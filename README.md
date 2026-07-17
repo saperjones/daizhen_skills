@@ -2,7 +2,7 @@
 
 daizhen 的个人 Claude Code 技能集（plugin + marketplace）。
 
-技能：`ai_reply`、`dz_spec`、`oral_reply`、`prd_design`、`review_format_spec`、`tech_doc_plain`。
+技能：`ai_reply`、`dz_spec`、`oral_reply`、`prd_design`、`review_format_spec`、`tech_doc_plain`、`teach_me_as_student`。
 
 ## 在另一台电脑安装
 
